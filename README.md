@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ed-Eureka
 
 A comprehensive Vue.js-based platform for AL (Advanced Level) examination preparation, focusing on Combined Maths, Physics, Chemistry, and Biology streams with MCQ practice, analytics, and AI-powered features.
@@ -136,3 +137,7 @@ The built files will be in the `dist` directory.
 ## License
 
 This project is provided as-is for educational purposes.
+=======
+# EdEureka
+AI Automated Learning Platform
+>>>>>>> 1548f2b05995ba1882374ffc4f868866e502065b
